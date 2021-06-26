@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "node server",
-    "build": "cd react-ui/ && npm install && npm start"
+    "build": "cd react-ui/ && npm install && npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
